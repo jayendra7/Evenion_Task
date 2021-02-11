@@ -1,0 +1,9 @@
+.flex{
+    display:flex;
+}
+.child{
+    padding:20px;
+    border:1px solid dodgerblue;
+    width:500px;
+    height:250px;
+}
